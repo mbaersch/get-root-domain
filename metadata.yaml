@@ -1,6 +1,6 @@
 homepage: "https://www.markus-baersch.de"
-documentation: "https://github.com/mbaersch/reading-time-calculator#readme"
+documentation: "https://github.com/mbaersch/get-root-domain#readme"
 versions:
   # Latest version
-  - sha: xxxxxxxxx
+  - sha: d316df624417f3027b1de216572ab9fe6ebcf208
     changeNotes: Initial release.
