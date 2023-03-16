@@ -4,7 +4,7 @@
 
 Returns root domain from hostname or URL
 
-![Template Status](https://img.shields.io/badge/Community%20Template%20Gallery%20Status-submitted-orange) ![Repo Size](https://img.shields.io/github/repo-size/mbaersch/get-root-domain) ![License](https://img.shields.io/github/license/mbaersch/get-root-domain)
+[![Template Status](https://img.shields.io/badge/Community%20Template%20Gallery%20Status-published-green)](https://tagmanager.google.com/gallery/#/owners/mbaersch/templates/get-root-domain) ![Repo Size](https://img.shields.io/github/repo-size/mbaersch/cyrb53-hasher-web) ![License](https://img.shields.io/github/license/mbaersch/get-root-domain)
 
 ---
 
